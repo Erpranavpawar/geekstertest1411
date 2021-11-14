@@ -1,0 +1,27 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color:#d5d5ec;
+}
+.div{
+    background-color: #eeadad;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 38%;
+    margin-right: 40%;
+    padding: 30px;
+    text-align: center;
+    border-radius: 40px;
+    border-style: solid;
+
+}
+.inpt1{
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+}
+.inpt2{
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+}
