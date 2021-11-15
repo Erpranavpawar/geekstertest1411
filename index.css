@@ -1,10 +1,10 @@
 body{
     margin: 0%;
     padding: 0%;
-    background-color:#d5d5ec;
+    background-color:#eeaccb;
 }
 .div{
-    background-color: #eeadad;
+    background-color: #b3c8db;
     display: inline-block;
     margin-top: 50px;
     margin-left: 38%;
@@ -13,6 +13,8 @@ body{
     text-align: center;
     border-radius: 40px;
     border-style: solid;
+    height: 500px;
+    width: 400px;
 
 }
 .inpt1{
